@@ -29,3 +29,9 @@ conda remove --name <name_of_env> --all
 ```
 activate python_course
 ```
+# Bibliotecas necesarias
+
+```
+pip install pandas
+```
+
